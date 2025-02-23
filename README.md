@@ -1,5 +1,6 @@
 Domain: Telecom & Streaming Services                   
 Function: Strategy & Operations
+
 Lio, a leading telecommunications provider in India, is planning a strategic merger with
 Jotstar, one of the country’s most prominent streaming platforms. This potential partnership
 aims to combine LioCinema’s expansive subscriber base and Jotstar’s diverse content library
@@ -13,6 +14,7 @@ informed decisions and optimize content strategies post-merger, with the ultimat
 establishing Lio-Jotstar as the leading OTT platform in India. Peter Pandey is the data
 analyst at Lio, and he is tasked to analyse the data and provide insights.
 The management expects detailed insights into the following:
+
 1. Content Library Analysis: A detailed comparison of content types across both platforms.
 2. Subscriber Insights: Analyse trends in subscriber acquisition and demographic variations.
 3. Inactivity Analysis: Patterns of inactivity across age groups, city tiers, and subscription
