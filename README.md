@@ -13,6 +13,7 @@ and downgrade trends. The insights derived from this study will help the managem
 informed decisions and optimize content strategies post-merger, with the ultimate goal of
 establishing Lio-Jotstar as the leading OTT platform in India. Peter Pandey is the data
 analyst at Lio, and he is tasked to analyse the data and provide insights.
+
 The management expects detailed insights into the following:
 
 1. Content Library Analysis: A detailed comparison of content types across both platforms.
